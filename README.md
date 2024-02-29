@@ -1,3 +1,5 @@
+[Link to deployed site](https://lauraevepatterson.github.io/Learn-Basic-JavaScript-by-Building-a-Role-Playing-Game/)
+
 # Learn Basic JavaScript by Building a Role Playing Game
 
 Welcome to the freeCodeAcademy project **Learn Basic JavaScript by Building a Role Playing Game**! This project is designed to help you grasp the fundamentals of JavaScript programming while creating a text-based Role Playing Game (RPG).
