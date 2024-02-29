@@ -47,7 +47,7 @@ If you need additional help or resources while working on this project, consider
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [freeCodeCamp](https://www.freecodecamp.org/learn/)
 - [Stack Overflow](https://stackoverflow.com/)
-- Bad Website Club's [Discord](https://discord.com/invite/pySW9YZfYY)
+- [Bad Website Club's Discord](https://discord.com/invite/pySW9YZfYY)
 
 ## Acknowledgements
 
